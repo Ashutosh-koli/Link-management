@@ -4,7 +4,7 @@ const dotenv = require("dotenv");
 const device = require("express-device");
 const crypto = require("crypto");
 const validator = require("validator");
-const BASE_URL= 'http://localhost:8080';
+const BASE_URL= 'https://link-management-1.onrender.com';
 
 dotenv.config();
 
